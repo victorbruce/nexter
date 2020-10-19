@@ -20,3 +20,11 @@ $font-display: 'Josefin Sans', sans-serif;
 .mb-md { margin-bottom: 3rem }
 .mb-lg { margin-bottom: 4rem }
 .mb-xl { margin-bottom: 8rem }
+
+
+//////////////////////////
+// RESPONSIVE BREAKPOINT
+$bp-xl: 75em; // 1200px / 16px
+$bp-lg: 62.5em; // 1000px / 16px
+$bp-md: 50em; // 800px / 16px
+$bp-sm: 37.5em; // 600px / 16px
