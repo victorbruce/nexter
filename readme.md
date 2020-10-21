@@ -7,6 +7,7 @@ The live demo can be accessed at [victorbruce.github.io/nexter](https://victorbr
 
 ## Table of Content
 - [About The App](#about-the-app)
+- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
@@ -17,6 +18,13 @@ The live demo can be accessed at [victorbruce.github.io/nexter](https://victorbr
 ## About The App
 
 nexter is a clone of Jonas Shemdit cousre advance css and sass. nexter is a website for a fictional real estate development company who are into building and selling luxurious homes.
+This project focuses on how to use css-grids to build complete page layouts. I had some struggles using css grids. This project has helped me to get comfortable using css-grids with flexbox to build responsive web pages.
+
+## Screenshots
+
+![Header Section](./img/screenshot-1.png)
+![Features Section](./img/screenshot-2.png)
+![Story Section](./img/screenshot-3.png)
 
 ## Technologies
 
